@@ -672,8 +672,15 @@ footer{
         margin-bottom: .2rem;
     }
 
+   .Gene{
+    height: 60%;
+    padding-top: .2rem;
+       
+   }
+
     .Gene h3{
         display: none;
+        
     }
 
     .Gender p{
